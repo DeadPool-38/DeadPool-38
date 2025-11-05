@@ -14,9 +14,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Data Science BootCam Triple Ten
-- 🌱 I’m currently learning ... ML & Deep Learning
+- 🌱 I’m currently learning ... ML & Deep Learning 🤖✨
 - 💬 Ask me about ... What you want.
+- 🐍 Python my favorite language
 - 📫 How to reach me: ... www.linkedin.com/in/ds-alan-pro
 - 😄 Pronouns: ... TOTAL FOCUS
-- ⚡ Fun fact: ... I am a musician too
+- ⚡ Fun fact: ... I am a musician too 🥁
 -->
