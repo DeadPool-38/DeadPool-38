@@ -11,7 +11,8 @@
 🔹 Graphic Design
 🔹 3D Modeling and Animation
 
-Here are some ideas to get you started:
+<img width="2574" height="644" alt="Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/54dd4260-9270-4d51-819b-a3806bf9d0fe" />
+
 
 - 🔭 I’m currently working on ... Data Science BootCam Triple Ten
 - 🌱 I’m currently learning ... ML & Deep Learning 🤖✨
@@ -22,5 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I am a musician too 🥁
 -->
 
-<img width="2574" height="644" alt="Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/54dd4260-9270-4d51-819b-a3806bf9d0fe" />
 
