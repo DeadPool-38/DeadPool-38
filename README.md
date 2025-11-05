@@ -1,4 +1,9 @@
 ## Hi there 👋
+👨🏻‍💻 I'm Alan, a Data Scientist with experience in data analysis, visualization, manipulation, optimization, and automation. I am passionate about technology and continuous learning. I very much enjoy programming in Python, one of my favorite languages, which helps me transform complex data into clear and efficient solutions, providing strategic value to teams focused on development and innovation.
+
+
+
+<img width="2574" height="644" alt="Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/54dd4260-9270-4d51-819b-a3806bf9d0fe" />
 
 🔹 Programming: 𝐏𝐲𝐭𝐡𝐨𝐧 and its main libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn...
 🔹 JavaScript and C#.
@@ -10,12 +15,6 @@
 🔹 Additional knowledge and skills:
 🔹 Graphic Design
 🔹 3D Modeling and Animation
-
-
-
-<img width="2574" height="644" alt="Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/54dd4260-9270-4d51-819b-a3806bf9d0fe" />
-
-
 
 
 - 🔭 I’m currently working on ... Data Science BootCam Triple Ten
