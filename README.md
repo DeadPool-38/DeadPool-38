@@ -12,9 +12,6 @@
 🔹 Machine Learning
 🔹 NLP
 🔹 Mathematics and Statistics
-🔹 Additional knowledge and skills:
-🔹 Graphic Design
-🔹 3D Modeling and Animation
 
 
 - 🔭 I’m currently working on ... Data Science BootCam Triple Ten
